@@ -1,5 +1,6 @@
 ## Drug search app
 ### The application searches for diseases that a certain drug cures
+Search based on semantic search - SPARQL + wikidata
 
 
 ### [Demo](https://drug-search.vercel.app)
