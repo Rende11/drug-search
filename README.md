@@ -2,7 +2,7 @@
 ### The application searches for diseases that a certain drug cures
 
 
-### [Demo](https://drug-search.vercel.app/) 
+### [Demo](https://drug-search.vercel.app)
 
 #### UI
 ##### Install UI deps
